@@ -25,3 +25,5 @@ Proporciona entretenimiento rápido, adictivo y accesible, sin curva de aprendiz
 Modos de juego
 1. **Modo Arcade:** partidas rápidas con dificultad creciente. Pierdes al fallar o al agotarse el tiempo.  
 2. **Modo Niveles:** niveles predeterminados con dificultad creciente y desafíos específicos. Ideal para quienes buscan progreso y metas claras.
+
+Creado por Israel Nicolás Nicolás
