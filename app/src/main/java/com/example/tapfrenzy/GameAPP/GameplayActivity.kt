@@ -60,7 +60,9 @@ class GameplayActivity : AppCompatActivity() {
 
         iniciarJuego()
 
-        btnBack.setOnClickListener { finish() }
+        btnBack.setOnClickListener {
+            finish()
+        }
     }
 
     fun mostrarTopo() {
